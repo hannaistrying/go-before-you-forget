@@ -87,11 +87,11 @@ Personal Places Database filled out automatically with Google API and Gemini API
 
 - [x] One-tap saving from iPhone
 - [x] Automatic Notion database
-- [ ] AI-powered search
-- [ ] Friday Compass integration
-- [ ] Weekly personalized digest
-- [ ] Visit statistics
-- [ ] Smart reminders
+- [x] AI-powered search
+- [x] Friday Compass integration
+- [x] Weekly personalized digest
+- [x] Visit statistics
+- [x] Smart reminders
 
 ---
 
